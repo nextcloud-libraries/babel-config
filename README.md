@@ -1,7 +1,6 @@
 ## @nextcloud/babel-config
 
 [![npm last version](https://img.shields.io/npm/v/@nextcloud/babel-config.svg?style=flat-square)](https://www.npmjs.com/package/@nextcloud/babel-config)
-[![travis build status](https://img.shields.io/travis/com/nextcloud/babel-config/master.svg?style=flat-square)](https://travis-ci.com/nextcloud/babel-config)
 [![Dependabot status](https://img.shields.io/badge/Dependabot-enabled-brightgreen.svg?longCache=true&style=flat-square&logo=dependabot)](https://dependabot.com)
 
 
