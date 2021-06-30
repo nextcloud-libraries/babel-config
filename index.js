@@ -10,7 +10,7 @@ module.exports = {
 			'@babel/preset-env',
 			{
 				useBuiltIns: false,
-				modules: 'commonjs',
+				modules: 'auto',
 			},
 		],
 	],
