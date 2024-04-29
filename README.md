@@ -29,4 +29,4 @@ module.exports = babelConfig
 
  1. Bump the package version with `npm version`
  2. Push version bump commit
- 3. Create a new release with proper changelog https://github.com/nextcloud/babel-config/releases/new
+ 3. Create a new release with proper changelog https://github.com/nextcloud-libraries/babel-config/releases/new
