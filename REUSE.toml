@@ -1,0 +1,12 @@
+# SPDX-FileCopyrightText: 2024 Nextcloud GmbH and Nextcloud contributors
+# SPDX-License-Identifier: AGPL-3.0-or-later
+version = 1
+SPDX-PackageName = "babel-config"
+SPDX-PackageSupplier = "Nextcloud GmbH and Nextcloud contributors"
+SPDX-PackageDownloadLocation = "https://github.com/nextcloud-libraries/babel-config"
+
+[[annotations]]
+path = ["package-lock.json", "package.json"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2021 Nextcloud GmbH and Nextcloud contributors"
+SPDX-License-Identifier = "AGPL-3.0-or-later"
