@@ -1,5 +1,10 @@
+<!--
+  - SPDX-FileCopyrightText: 2021 Nextcloud GmbH and Nextcloud contributors
+  - SPDX-License-Identifier: AGPL-3.0-or-later
+-->
 ## @nextcloud/babel-config
 
+[![REUSE status](https://api.reuse.software/badge/github.com/nextcloud-libraries/babel-config)](https://api.reuse.software/info/github.com/nextcloud-libraries/babel-config)
 [![npm last version](https://img.shields.io/npm/v/@nextcloud/babel-config.svg?style=flat-square)](https://www.npmjs.com/package/@nextcloud/babel-config)
 [![Dependabot status](https://img.shields.io/badge/Dependabot-enabled-brightgreen.svg?longCache=true&style=flat-square&logo=dependabot)](https://dependabot.com)
 
