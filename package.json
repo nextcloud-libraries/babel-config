@@ -1,6 +1,6 @@
 {
   "name": "@nextcloud/babel-config",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Babel shared config for nextcloud apps",
   "keywords": [
     "babel",
