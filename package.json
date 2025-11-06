@@ -7,16 +7,16 @@
     "nextcloud",
     "config"
   ],
-  "homepage": "https://github.com/nextcloud/babel-config#readme",
+  "homepage": "https://github.com/nextcloud-libraries/babel-config#readme",
   "bugs": {
-    "url": "https://github.com/nextcloud/babel-config/issues"
+    "url": "https://github.com/nextcloud-libraries/babel-config/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nextcloud/babel-config.git"
+    "url": "git+https://github.com/nextcloud-libraries/babel-config.git"
   },
   "license": "AGPL-3.0-or-later",
-  "author": "John Molakvoæ <skjnldsv@protonmail.com>",
+  "author": "Nextcloud GmbH and Nextcloud contributors",
   "main": "index.js",
   "devDependencies": {
     "@babel/core": "^7.27.4",
