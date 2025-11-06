@@ -29,7 +29,20 @@
     "@babel/preset-env": "^7.27.2"
   },
   "engines": {
-    "node": "^20.0.0",
-    "npm": "^10.0.0"
+    "node": "^20 || ^22 || ^24"
+  },
+  "devEngines": {
+    "packageManager": [
+      {
+        "name": "npm",
+        "onFail": "error",
+        "version": "^11.3.0"
+      }
+    ],
+    "runtime": {
+      "name": "node",
+      "onFail": "error",
+      "version": "^24"
+    }
   }
 }
