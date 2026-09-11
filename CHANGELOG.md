@@ -6,6 +6,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## v2.0.0 - 2026-09-10
+### Notes
+This configuration is updated for Babel v8.
+The minimum Node version has been updated to 22.18+.
+
+### Changed
+* ci: update all workflow templates from organization template repository
+* Updated dependencies
+  * Bump `@babel/preset-env` to 8.0.2
+  * Bump `@babel/core` to 8.0.1
+* chore: adjust package for Babel 8 \([#206](https://github.com/nextcloud-libraries/babel-config/pull/206)\)
+
 ## v1.3.0 - 2025-11-06
 ### Changed
 * Add SPDX header ([#160](https://github.com/nextcloud-libraries/babel-config/pull/160))
