@@ -20,11 +20,11 @@
   "main": "index.js",
   "devDependencies": {
     "@babel/core": "^8.0.1",
-    "@babel/preset-env": "^8.0.2"
+    "@babel/preset-env": "^8.0.6"
   },
   "peerDependencies": {
     "@babel/core": "^8.0.1",
-    "@babel/preset-env": "^8.0.2"
+    "@babel/preset-env": "^8.0.6"
   },
   "engines": {
     "node": "^22.18 || ^24.11 || >=26"
