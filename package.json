@@ -19,11 +19,11 @@
   "author": "Nextcloud GmbH and Nextcloud contributors",
   "main": "index.js",
   "devDependencies": {
-    "@babel/core": "^8.0.1",
+    "@babel/core": "^8.1.2",
     "@babel/preset-env": "^8.0.7"
   },
   "peerDependencies": {
-    "@babel/core": "^8.0.1",
+    "@babel/core": "^8.1.2",
     "@babel/preset-env": "^8.0.7"
   },
   "engines": {
